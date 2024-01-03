@@ -4,7 +4,6 @@ In this project, one can login, register, follow the menu, go through the offers
 This was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 Created using __React, React Hooks like useContext & useReducer, ES6, JSX, Bootstrap5, CSS__\
 Deployed in Firebase cloud.\
-Check it out my app here: [yumito-app](https://yumitotaste.firebaseapp.com)
 
 ## Available Scripts
 
